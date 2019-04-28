@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+div {
+	width:400s;
+	border:1px solid balck;
+	font-familt:Arial;
+	font-size:large;
+	padding:5px;
+}
+table {
+	border-collapse:collapse;
+}
+thead {
+	font-family:verdana;
+	font-size:20px;
+	
+}
+td {
+	border:1px solid black;
+	padding:5px;
+	font-family:verdana;
+	font-size:20px;
+	
+}
+th {
+	border:1px;
+	padding:5px;
+	text-area:left;
+	cursor:pointer;
+	
+}
+.arrow-up {
+	width:0;
+	height:0;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+	borderb-bottom:10px solid black;
+	display:inline-block;
+	
+}
+.arrow-down {
+	width:0;
+	height:0;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+	borderb-top:10px solid black;
+	display:inline-block;
+	
+}

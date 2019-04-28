@@ -1,0 +1,5 @@
+Hello 
+
+This is AJAX.
+
+The keystone of AJAX is the XMLHttpRequest object.
